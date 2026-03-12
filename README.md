@@ -1,15 +1,13 @@
+This program is a part of paper published in the IEEE conference by the name Explainable AI Framework for Judicial Verdict Classification. To read the paper for more insights about the project, 
+
 Install libraries and packages
 ```python
 python
 pip install -r requirements.txt
 ```
 
-Dataset Link:
-https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments
-
-Change in Global Config
+Set the DATA_DIR in Global Config section of the notebook to the location of the Dataset
 ```python
 python
 DATA_DIR = r"c:/you_folder_location"
 ```
-This is done to connect the dataset you have downloaded using the link with the Jupyter Notebook
