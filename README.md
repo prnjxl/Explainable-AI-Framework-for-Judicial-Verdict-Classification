@@ -1,4 +1,5 @@
-This program is a part of paper published in the IEEE conference by the name Explainable AI Framework for Judicial Verdict Classification. To read the paper for more insights about the project, 
+This repository is a part of research paper published in International Conference on Smart Communication and Sustainable Technologies (an IEEE conference) by the name Explainable AI Framework for Judicial Verdict Classification. To read the paper for discoveries and experimental results obtained, head over to the IEEE Xplore page and follow the given link:
+
 
 Install libraries and packages
 ```python
