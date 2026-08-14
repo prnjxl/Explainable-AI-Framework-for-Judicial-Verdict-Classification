@@ -12,7 +12,3 @@ Set the DATA_DIR in Global Config section of the notebook to the location of the
 python
 DATA_DIR = r"c:/you_folder_location"
 ```
-
-To get the output JSON saved to your designated location
-```python
-```
